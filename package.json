@@ -1,0 +1,22 @@
+{
+  "name": "express_teste",
+  "version": "1.0.0",
+  "description": "Pacote de estudo sobre express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulmmorais/node-express.git"
+  },
+  "author": "Raul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raulmmorais/node-express/issues"
+  },
+  "homepage": "https://github.com/raulmmorais/node-express#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
